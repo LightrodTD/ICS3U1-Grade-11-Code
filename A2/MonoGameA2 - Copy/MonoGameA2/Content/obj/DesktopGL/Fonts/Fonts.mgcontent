@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Fonts/Fonts.spritefont</SourceFile>
+  <SourceTime>2018-10-08T06:35:14-04:00</SourceTime>
+  <DestFile>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/bin/DesktopGL/Fonts/Fonts.xnb</DestFile>
+  <DestTime>2019-11-01T13:36:28-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

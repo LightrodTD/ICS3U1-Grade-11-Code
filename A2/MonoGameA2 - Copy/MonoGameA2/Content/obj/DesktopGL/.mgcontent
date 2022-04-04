@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Fonts/Fonts.spritefont</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Fonts/TitleFont.spritefont</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Background/73706218.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Background/beautiful-hill-silhouettes-game-backgrounds-vector-77463523.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Background/IcyBackground.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/bird.png</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/bulletObstacle.png</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/greenorc_modified.png</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_JetpackJump.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_JetpackJump_Final.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_Roll10.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_Roll4.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_Run.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/OrignalSprite_Run_Final.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/runningBoy2.jpg</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/RunningMan1.png</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/slidingAnimationFinal.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/stumpObstacleFinal.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/stumpObstacleFinal2.psd</File>
+    <File>D:/MonoGame/MonoGame A2 Practice/MonoGame A2 Practice/Content/Images/Sprites/stumpObstacleFinal3.psd</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Fonts/ScoreFonts.spritefont</File>
+    <File xsi:nil="true" />
+    <File>Images/Background/BACKGROUND.jpg</File>
+    <File>Images/Background/HillBackground.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/Sprites/testAnimation.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/Sprites/roll.psd</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
